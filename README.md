@@ -1,5 +1,5 @@
 # MicroMiner
-A crappy game I made as a 3-day mini-project
+A tiny game I made as a 5-day mini-project
 
 **Release 0.0.1:**
 
